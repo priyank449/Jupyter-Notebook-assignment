@@ -1,0 +1,5 @@
+# Arithmetic operations
+code = compile("5 + 4", "<string>", "eval")
+eval(code)
+
+ans:9
