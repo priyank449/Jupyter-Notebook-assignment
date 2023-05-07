@@ -1,0 +1,21 @@
+List of commonly used libraries used by Data Scientists:
+- TensorFlow
+- NumPy
+- SciPy
+- Pandas
+- Matplotlib
+- Keras
+- SciKit-Learn
+- PyTorch
+- Scrapy
+- BeautifulSoup
+- LightGBM
+- ELI5
+- Theano
+- NuPIC
+- Ramp
+- Pipenv
+- Bob
+- PyBrain
+- Caffe2
+- Chainer
